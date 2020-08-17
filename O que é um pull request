@@ -1,1 +1,56 @@
-<mxfile host="app.diagrams.net" modified="2020-08-17T19:43:08.070Z" agent="5.0 (X11)" etag="e--xs6uMM8kh_8l5OHZn" version="13.6.2" type="github"><diagram id="vQYcQPYjoPD-iY-7eiAd" name="Page-1">dZHBDoIwDIafZnfYUPSMiBdPHDwvrLIlg5IxA/r0QjbEBU16aL/+3b91hGXNWBjeySsK0IRGYiTsRCiNE0rJHJF4OpImOwdqo4QXraBUL/Aw8vShBPSB0CJqq7oQVti2UNmAcWNwCGV31KFrx2vYgLLiektvSljp6IGmK7+AquXiHO+PrtPwRexf0ksucPhCLCcsM4jWZc2YgZ6Xt+zFzZ3/dD8XM9DaHwNTsp49FcEPsfwN</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-08-17T19:59:59.922Z" agent="5.0 (X11)" etag="ycWptCSIrJ5xYRgTP1Vo" version="13.6.2" type="github">
+  <diagram id="vQYcQPYjoPD-iY-7eiAd" name="Page-1">
+    <mxGraphModel dx="2046" dy="852" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="np7Iu7hjQM04xmOeGeqs-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="np7Iu7hjQM04xmOeGeqs-1" target="np7Iu7hjQM04xmOeGeqs-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="np7Iu7hjQM04xmOeGeqs-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/feather/24/git-branch-128.png" vertex="1" parent="1">
+          <mxGeometry x="-280" y="360" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="np7Iu7hjQM04xmOeGeqs-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="np7Iu7hjQM04xmOeGeqs-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="np7Iu7hjQM04xmOeGeqs-2" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/software-engineering-and-video-gaming/512/77_hacker_user_gammer_programmer-128.png" vertex="1" parent="1">
+          <mxGeometry y="360" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="np7Iu7hjQM04xmOeGeqs-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="np7Iu7hjQM04xmOeGeqs-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="440" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="np7Iu7hjQM04xmOeGeqs-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="np7Iu7hjQM04xmOeGeqs-5" target="np7Iu7hjQM04xmOeGeqs-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="np7Iu7hjQM04xmOeGeqs-5" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/customer-support-24/64/customer-feedback-review-satisfaction-contentment-128.png" vertex="1" parent="1">
+          <mxGeometry x="560" y="360" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="np7Iu7hjQM04xmOeGeqs-6" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/airline-flight-booking-mobile-app/15/true-check-accept-approve-128.png" vertex="1" parent="1">
+          <mxGeometry x="840" y="360" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="np7Iu7hjQM04xmOeGeqs-12" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/octicons/1024/git-pull-request-128.png" vertex="1" parent="1">
+          <mxGeometry x="280" y="360" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="np7Iu7hjQM04xmOeGeqs-13" value="CÓPIA DO CÓDIGO FONTE" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="540" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="np7Iu7hjQM04xmOeGeqs-14" value="DESENVOLVIMENTO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="540" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="np7Iu7hjQM04xmOeGeqs-15" value="SUBMISSÃO DA MODIFICAÇÃO (PULL REQUEST)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="540" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="np7Iu7hjQM04xmOeGeqs-16" value="REVISÃO DO TRABALHO SUBMETIDO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="540" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="np7Iu7hjQM04xmOeGeqs-17" value="O TRABALHO É INTEGRADO E O PULL REQUEST É FECHADO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="860" y="540" width="120" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
