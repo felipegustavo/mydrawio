@@ -1,1 +1,81 @@
-<mxfile host="app.diagrams.net" modified="2020-08-17T20:05:15.355Z" agent="5.0 (X11)" etag="7yxQ7ahD5xT9XIAVZqIz" version="13.6.2" type="github"><diagram id="vQYcQPYjoPD-iY-7eiAd" name="Page-1">5Vnbcps6FP0az7QPZLj5kkdfsMOMHaexk/PYkUGAGoGoELbTr+8WCN9o4pyOe4bjZiZIWtogaa+9pA1uWcN4O+EojWbMx7Rl6v62ZY1apmnqdgcKibyWSK9tlkDIiV9Cxh5YkB9YgbpCc+Lj7MhQMEYFSY9BjyUJ9sQRhjhnm2OzgNHjUVMUqhH1PbDwEMU1s3+ILyKFmvqB+R0mYVQNfVs9KEaVtQKyCPlscwBZTssacsZEWYu3Q0yl9yrHlPeN3+jdzYzjRHzkhiTtunk3+vZlptvbeI4n+HumdcunrBHN1YrVZMVr5QLsg0dUk3ERsZAliDp7dMBZnvhYDqNDa28zZSwF0ADwGxbiVdGLcsEAikRMVW99KWp1Gcu5h9+ZfxUTiIdYvGOnliXXcjCActQEsxgL/goGHFMkyPqYfaSCKNzZ7d0MFeXpf+F147zXIVpSWSVxEaGH3lpjLgiEaJ+SMAFMSC/v0ClaYfrAMiIIk70rJgSLwYDKjgHyXsKCryGjjBdjWUHxBybFYP0sLZUkyURVIyBbyfBAzWcUCSEl2JeOMMeen9g3BEQYEIgEfuPBiObYRwJBIfEMygCDJDCHmmnDJSRCW3GUeJFmmL2bNAnfDAO5Nrx9lzjVq5k9JTe14Vgd1d4cyLfCokPlVuDF2e79zzV2ce2oWx8YgansqDtlzrZPCClFru464WQ3jd+nybxCUepnRZmxQGwgKDSchCTBmJMk1FDia2s4eJkWophIYY7bhvR4t/s1gsli/jXP4AK9MRQpZyEvqpdQcnOEe9ts4Z499Nr/jXB3Qn1LuOUO88eEW+WKTeXp7Abb/iCfnUYlMe0r3C+ts/ull2cwE9jpsjxNIUq0Ipfp2IddAcb+CuaocbwmeKNlwEYWIE8uRoPnCIiQGP4vmPe0O41LezpXGB/G2fhAhFM4R7WASh9rK8Ze5IkasxWhWENpCjYGSGcseI41L8IQJsjzcCpkJ2drfMGo6NmNiwrj70yzGIhfVQ199/qT5pTCJvE9x9klN4MGvgMZVo32YWtotW6tBxf8qI/mcFHIyJ3I1nh+v3RqsQEuEMchkQnOXnBFacISGTIBofQEQipkPHAsvIXWYykmvl+kApuICLxIUXFobzhKa+nBBUiqvam27V+wZP6CJfOPkWTXSBo5C+f+eT59dmfO/XJ+vXSYjSOjnl8tngYzd7GQKulZUiIjKZ3ZfOSO3WG/gLv7zk8PT9MplI/Olydnsfx8vdxZeuPIqyc/j86ze0idvCwf+4P+9E5WJbfO0h1dscQ6zaOp/vn7hJaCsFuouHAYTR77BW1wKumyPBbYofXYGd71r5nLXuc3uTz9NvABLqG5/5Wk/Giw/7HJcn4C</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-08-17T20:52:21.508Z" agent="5.0 (X11)" etag="63bOjVpH9y2ThhkAml6D" version="13.6.2" type="github">
+  <diagram id="vQYcQPYjoPD-iY-7eiAd" name="Page-1">
+    <mxGraphModel dx="2046" dy="852" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="np7Iu7hjQM04xmOeGeqs-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="np7Iu7hjQM04xmOeGeqs-1" target="np7Iu7hjQM04xmOeGeqs-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="np7Iu7hjQM04xmOeGeqs-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/feather/24/git-branch-128.png" parent="1" vertex="1">
+          <mxGeometry x="-280" y="360" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="np7Iu7hjQM04xmOeGeqs-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="np7Iu7hjQM04xmOeGeqs-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="np7Iu7hjQM04xmOeGeqs-2" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/software-engineering-and-video-gaming/512/77_hacker_user_gammer_programmer-128.png" parent="1" vertex="1">
+          <mxGeometry y="360" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="np7Iu7hjQM04xmOeGeqs-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="np7Iu7hjQM04xmOeGeqs-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="440" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="np7Iu7hjQM04xmOeGeqs-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="np7Iu7hjQM04xmOeGeqs-5" target="np7Iu7hjQM04xmOeGeqs-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w04RdTKsAli3Ws2ZV8WF-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="651" y="360" as="sourcePoint" />
+            <mxPoint x="651" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="np7Iu7hjQM04xmOeGeqs-5" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/customer-support-24/64/customer-feedback-review-satisfaction-contentment-128.png" parent="1" vertex="1">
+          <mxGeometry x="560" y="360" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="np7Iu7hjQM04xmOeGeqs-6" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/airline-flight-booking-mobile-app/15/true-check-accept-approve-128.png" parent="1" vertex="1">
+          <mxGeometry x="840" y="360" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="np7Iu7hjQM04xmOeGeqs-12" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/octicons/1024/git-pull-request-128.png" parent="1" vertex="1">
+          <mxGeometry x="280" y="360" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="np7Iu7hjQM04xmOeGeqs-13" value="CÓPIA DO CÓDIGO FONTE" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-280" y="540" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="np7Iu7hjQM04xmOeGeqs-14" value="DESENVOLVIMENTO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="20" y="540" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="np7Iu7hjQM04xmOeGeqs-15" value="SUBMISSÃO DA MODIFICAÇÃO (PULL REQUEST)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="300" y="540" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="np7Iu7hjQM04xmOeGeqs-16" value="REVISÃO DO TRABALHO SUBMETIDO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="600" y="540" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="np7Iu7hjQM04xmOeGeqs-17" value="O TRABALHO É INTEGRADO E O PULL REQUEST É FECHADO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="860" y="540" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="w04RdTKsAli3Ws2ZV8WF-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.375;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="637" y="240" as="sourcePoint" />
+            <mxPoint x="637" y="360" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="637" y="340" />
+              <mxPoint x="637" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w04RdTKsAli3Ws2ZV8WF-3" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/school-172/512/analysis_research_search_analytic-128.png" vertex="1" parent="1">
+          <mxGeometry x="560" y="80" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="w04RdTKsAli3Ws2ZV8WF-7" value="PULL REQUEST REPORTER GERA RELATÓRIOS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="580" y="40" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="w04RdTKsAli3Ws2ZV8WF-8" value="&lt;div align=&quot;left&quot;&gt;CÓDIGO FONTE&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;ISSUES&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;COMENTÁRIOS DE CÓDIGO&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;ENTRE OUTROS&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="720" y="80" width="160" height="160" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
