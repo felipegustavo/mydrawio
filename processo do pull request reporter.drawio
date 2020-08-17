@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-17T21:59:18.935Z" agent="5.0 (X11)" etag="8YosSbExxzAvGollOHiP" version="13.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-17T22:00:42.004Z" agent="5.0 (X11)" etag="zF7opCv88g1mdjRpLM13" version="13.6.2" type="github">
   <diagram id="vQYcQPYjoPD-iY-7eiAd" name="Page-1">
     <mxGraphModel dx="2046" dy="1252" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
@@ -56,8 +56,11 @@
         <mxCell id="w04RdTKsAli3Ws2ZV8WF-16" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.638;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="w04RdTKsAli3Ws2ZV8WF-3" target="np7Iu7hjQM04xmOeGeqs-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="w04RdTKsAli3Ws2ZV8WF-21" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="240" y="39" width="490" height="200" as="geometry" />
+        <mxCell id="w04RdTKsAli3Ws2ZV8WF-23" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="230" y="-10" width="490" height="249" as="geometry" />
+        </mxCell>
+        <mxCell id="w04RdTKsAli3Ws2ZV8WF-21" value="" style="group" vertex="1" connectable="0" parent="w04RdTKsAli3Ws2ZV8WF-23">
+          <mxGeometry y="49" width="490" height="200" as="geometry" />
         </mxCell>
         <mxCell id="w04RdTKsAli3Ws2ZV8WF-17" value="" style="group;dashed=1;" vertex="1" connectable="0" parent="w04RdTKsAli3Ws2ZV8WF-21">
           <mxGeometry width="490" height="200" as="geometry" />
@@ -80,8 +83,8 @@
         <mxCell id="w04RdTKsAli3Ws2ZV8WF-8" value="&lt;div align=&quot;right&quot;&gt;CÓDIGO FONTE&lt;/div&gt;&lt;div align=&quot;right&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;right&quot;&gt;ISSUES&lt;/div&gt;&lt;div align=&quot;right&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;right&quot;&gt;COMENTÁRIOS DE CÓDIGO&lt;/div&gt;&lt;div align=&quot;right&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;right&quot;&gt;ENTRE OUTROS&lt;br&gt;&lt;/div&gt;" style="text;html=1;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="w04RdTKsAli3Ws2ZV8WF-17">
           <mxGeometry y="40" width="160" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="w04RdTKsAli3Ws2ZV8WF-22" value="PLATAFORMA DE HOSPEDAGEM DE CÓDIGO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="347.5" y="-10" width="275" height="20" as="geometry" />
+        <mxCell id="w04RdTKsAli3Ws2ZV8WF-22" value="PLATAFORMA DE HOSPEDAGEM DE CÓDIGO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="w04RdTKsAli3Ws2ZV8WF-23">
+          <mxGeometry x="107.5" width="275" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
