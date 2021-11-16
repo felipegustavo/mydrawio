@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-16T13:25:01.635Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="AyT_ndtoJ73rYEQVrgu5" version="15.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-16T13:26:34.329Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="9AnFvVUC34EeUYveEIGX" version="15.7.4" type="github">
   <diagram id="TexA8S5QzCfUdCCLRISo" name="Page-1">
     <mxGraphModel dx="2062" dy="1155" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -57,6 +57,12 @@
         </mxCell>
         <mxCell id="VkiphotjZV_I0LkUgUTH-9" value="Step 4" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="805" y="160" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VkiphotjZV_I0LkUgUTH-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="360" y="130" width="580" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="VkiphotjZV_I0LkUgUTH-11" value="Filtration process" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="610" y="280" width="110" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
